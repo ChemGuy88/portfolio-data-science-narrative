@@ -5,7 +5,7 @@
     <p>Programming Experience</p>
   </h1>
   <p>Herman Autore</p>
-  <a href=https://www.linkedin.com/in/hermanautore/> LinkedIn </a> 
+  <a href=https://www.linkedin.com/in/hermanautore> LinkedIn </a> 
   | <a href="https://github.com/ChemGuy88">GitHub</a> 
   | <a href="https://www.hermanportfolio.blog/">Personal Website</a>
 </div>
@@ -14,10 +14,14 @@ To Whom It May Concern:
 
 Please consider the following detailed overviews of the experiences listed in my CV. Not only do they describe my technical abilities, but I hope they also describe my intellectual interests, and maybe even my personality. I hope you can use this information to decide if I will be a fit in your organization.
 
-## [Full-Stack Data Science](https://github.com/ChemGuy88/portfolio-recommendation)
-I scraped a premium dating website and collected all the users’ information to create a natural-language recommendation system. Using Tensorflow I calculated the cosine and Euclidian similarities of the embeddings representing three aspects of each user’s profile: their self-description, their interests, and their desired partner. The result was then encased in a Flask web application, a REST-ful API, and then published on HEROKU. The project is available on GitHub.
+## Full-Stack Data Science
+I scraped a premium dating website and collected all the users’ information to create a natural-language recommendation system. Using Tensorflow I calculated the cosine and Euclidian similarities of the embeddings representing three aspects of each user’s profile: their self-description, their interests, and their desired partner. The result was then encased in a Flask web application, a REST-ful API, and then published on HEROKU. The project is available on [GitHub](https://github.com/ChemGuy88/portfolio-recommendation).
 
-## [Random Forests and Decision Trees](https://github.com/ChemGuy88/portfolio-diabetes)
+## Random Forests and Decision Trees
+I used decision trees to create a human-interpretable model for rural patients to predict their diabetes status. A comparison with random forests was performed. Please visit the [project page](https://github.com/ChemGuy88/portfolio-diabetes) for details.
+
+## Data Mining in Python
+I taught myself Python online, which included using a package to access online material. Motivated by this new knowledge and my desire to pursue a graduate degree, I set out to scrape US News & World Reports’ rankings of Statistics, Biology, and Computer Science graduate programs. The code for this available on [GitHub](https://github.com/ChemGuy88/US_News_Scraper). I then uploaded the spreadsheet to Google Maps, which is available [for viewing](https://drive.google.com/open?id=1Sf9PJm9u51cYH9fja2-7sp_txTs&usp=sharing).
 
 ## Data Analysis and Statistical Modeling for Social Causes
 I have experience in multiple linear regression. As a capstone project for a class in applied statistics I collaborated with a partner in acquiring data and identifying interesting variables. Of these interesting variables one was chosen to serve as the outcome variable to be regressed on the explanatory variables. We acquired our data from the Integrated Postsecondary Education Data System  (IPEDS).
@@ -30,9 +34,6 @@ Later, when I took graduate classes in statistics, I learned new ways to design 
 
 ## Statistics Communication
 One of my soft-skills is being a good communicator. I may not have walked a mile in everyone’s shoes, but I am aware of those differences and I’m willing to walk in those shoes so I can know how I need to frame a question or answer to someone, be they a client, coworker, or superior. I had one professor complement me on how elaborate my visualizations were.
-
-## Data Mining in Python
-I taught myself Python online, which included using a package to access online material. Motivated by this new knowledge and my desire to pursue a graduate degree, I set out to scrape US News & World Reports’ rankings of Statistics, Biology, and Computer Science graduate programs. The code for this available on GitHub . I then uploaded the spreadsheet to Google Maps, which is available for viewing .
 
 ## High-Dimensional Multinomial Classification and Unsupervised Learning
 One of my favorite subjects I learned in graduate school was high-dimensional statistics and the concept for sparsity.  The class included a project where I independently analyzed data from beginning to end. The 801 cases had 5 classes and 20,541 variables. Using PCA, and l1-penalized multinomial regression, we discovered that the dataset was highly sparse. We achieved 90% accuracy and higher on test sets as small as 1/10 the size of the whole dataset.
