@@ -1,7 +1,9 @@
 # README
 
-This repo exists solely to host a [narrative of my data science experience](https://github.com/ChemGuy88/portfolio-data-science-narrative/blob/main/Statistics%20%26%20Programming%20Experience.md) which is not reflected in my CV or resume.
+This repository serves to [narrate my career portfolio]((https://github.com/ChemGuy88/portfolio-data-science-narrative/blob/main/Statistics%20%26%20Programming%20Experience.md) of data science, statistics, and programming experience, to complement my CV. [narrative of my data science experience] 
 
-# TODO
+# References
 
-Get PDF versions by using [`markdown-cv`](https://elipapa.github.io/markdown-cv/).
+This project was partly influenced by the following:
+- [`markdown-cv`](https://elipapa.github.io/markdown-cv/).
+- [`pandoc-resume`](https://mszep.github.io/pandoc_resume/)
