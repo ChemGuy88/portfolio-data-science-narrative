@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>Statistics & Programming Experience</h1>
+  <h1>
+    <p>Statistics</p>
+    <p>&</p>
+    <p>Programming Experience</p>
+  </h1>
   <p>Herman Autore</p>
   <a href=https://www.linkedin.com/in/hermanautore/> LinkedIn </a> 
   | <a href="https://github.com/ChemGuy88">GitHub</a> 
