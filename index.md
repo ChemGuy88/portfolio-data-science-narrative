@@ -5,7 +5,8 @@
     <p>Programming Experience</p>
   </h1>
   <p>Herman Autore</p>
-  <a href="https://github.com/ChemGuy88">GitHub</a> 
+  <a href="https://www.linkedin.com/in/hermanautore"> LinkedIn </a> 
+  | <a href="https://github.com/ChemGuy88">GitHub</a> 
   | <a href="https://www.hermanportfolio.blog/">Personal Website</a>
 </div>
 
